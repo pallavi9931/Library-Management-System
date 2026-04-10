@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+ import { Routes, Route } from "react-router-dom";
 import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
 import ProtectedRoute from "./utils/ProtectedRoute";
@@ -20,4 +20,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;   
